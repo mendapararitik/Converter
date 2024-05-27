@@ -6,7 +6,7 @@ This Converter Web App allows users to convert various units across different ca
 
 # Features
 
-User-Friendly Interface: Simple and intuitive design for easy navigation and usage.
-Multiple Conversion Categories: Supports conversion for Length, Mass, Time, Temperature, Angle, Area, Volume, and Digital Storage.
-Real-Time Conversion: Instantly converts units as users input values.
-Responsive Design: Ensures compatibility across different devices and screen sizes.
+1. User-Friendly Interface: Simple and intuitive design for easy navigation and usage.
+2. Multiple Conversion Categories: Supports conversion for Length, Mass, Time, Temperature, Angle, Area, Volume, and Digital Storage.
+3. Real-Time Conversion: Instantly converts units as users input values.
+4. Responsive Design: Ensures compatibility across different devices and screen sizes.
