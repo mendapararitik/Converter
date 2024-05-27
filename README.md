@@ -12,7 +12,7 @@ This Converter Web App allows users to convert various units across different ca
 4. Responsive Design: Ensures compatibility across different devices and screen sizes.
 
 # Deployed Version
-The Converter Web App is deployed and can be accessed here. **_DEMO-> (https://mendapararitik.github.io/Converter/) Converter Web App Project _**
+The Converter Web App is deployed and can be accessed here. **_DEMO-> (https://mendapararitik.github.io/Converter/) Converter Web App Project_**
 
 # Supported Conversion Categories
 * Length
